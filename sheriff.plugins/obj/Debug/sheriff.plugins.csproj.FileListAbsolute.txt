@@ -1,0 +1,11 @@
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\bin\Debug\sheriff.plugins.dll
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\bin\Debug\sheriff.plugins.pdb
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\bin\Debug\NLog.dll
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\bin\Debug\NLog.xml
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\obj\Debug\sheriff.plugins.dll
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\obj\Debug\sheriff.plugins.pdb
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\obj\Debug\sheriff.plugins.csprojResolveAssemblyReference.cache
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\bin\Debug\IPlugin.dll
+C:\Users\scope\documents\visual studio 2017\Projects\sheriff.plugins\sheriff.plugins\bin\Debug\IPlugin.pdb
+C:\Users\scope\Desktop\şahin\Sheriff\Sheriff\bin\Debug\plugins\sheriff.plugins.dll
+C:\Users\scope\Desktop\şahin\Sheriff\Sheriff\bin\Debug\plugins\sheriff.plugins.pdb
